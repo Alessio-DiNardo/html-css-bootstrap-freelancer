@@ -25,3 +25,9 @@ section.blue{
     width: 100%;
     background-color: #3a546d;
 }
+
+div.bar{
+    height: 2px;
+    background-color: white;
+    width: 20px;
+}
