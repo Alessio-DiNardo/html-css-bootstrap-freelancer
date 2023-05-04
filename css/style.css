@@ -44,6 +44,9 @@ div.col-4 img{
     border-radius: 20px;
 }
 
-section.griglia{
-    max-width: 820px;
+header.color{
+    background-color: #3a546d;
+    color: white;
+    height: 80px;
 }
+
