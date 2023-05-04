@@ -67,12 +67,9 @@ header.color{
     height: 80px;
 }
 
-div.box{
-    width: 340px;
-}
 
 img.my_immagine{
-    width: 100%;
+    
     border-radius: 20px;
 }
 
